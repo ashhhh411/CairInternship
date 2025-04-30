@@ -1,0 +1,7 @@
+    "The product quality is excellent and delivery was fast!",
+    "Amazing service! Quick shipping and great customer support.",
+    "The item arrived late, but the quality was good.",
+    "Not satisfied. The product was damaged on arrival.",
+    "Fast delivery but poor packaging.",
+    "Superb experience! Will buy again."
+
