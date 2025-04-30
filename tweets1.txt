@@ -1,0 +1,6 @@
+"AI is transforming the world!",
+    "Machine learning is amazing.",
+    "Deep learning improves AI models.",
+    "Big data is essential for AI training.",
+    "Natural language processing is a key AI field."
+]

@@ -1,0 +1,8 @@
+texts = [
+    "Artificial Intelligence is transforming the world.",
+    "Machine learning is a subset of AI.",
+    "Deep learning uses neural networks.",
+    "Blockchain is a decentralized technology.",
+    "Natural Language Processing helps in text analysis."
+]
+

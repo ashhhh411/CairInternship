@@ -1,0 +1,6 @@
+"Building a vector database pipeline for AI-powered search!",
+    "Want real-time insights? Use vector search with Qdrant!",
+    "AI + Vector Search = Next-gen recommendations",
+    "How to store embeddings efficiently? Try Qdrant!",
+    "Data-driven decision-making starts with efficient search.",
+    "Qdrant makes similarity search blazing fast!"
